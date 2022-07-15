@@ -15,9 +15,4 @@ dddd
 
 한 번 더 해볼과
 >>>>>>> 7cb597519cff0edfc0b19ea9906f8183175f08a9
-
-어려운데 하다보면 되겠지뭐
-
-시른데~~
-
-ddddddddd
+sdasdaasdjklasdsakdjlkdjslak
