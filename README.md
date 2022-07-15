@@ -1,8 +1,10 @@
-#s Wordplay
+s Wordplay
 
 git pull만 어찌저찌 해보즈아
 
 <<<<<<< HEAD
+
+
 
 
 
@@ -17,3 +19,5 @@ dddd
 어려운데 하다보면 되겠지뭐
 
 시른데~~
+
+ddddddddd
